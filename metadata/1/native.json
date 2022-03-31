@@ -1,0 +1,12 @@
+{
+  "symbol": "ETH",
+  "address": "ethereum",
+  "overview": "The crypto-fuel for the Ethereum network",
+  "website": "https://www.ethereum.org",
+  "links": {
+    "github": "https://github.com/ethereum",
+    "twitter": "https://twitter.com/ethereum",
+    "facebook": "https://www.facebook.com/ethereumproject",
+    "blog": "https://blog.ethereum.org/"
+  }
+}
